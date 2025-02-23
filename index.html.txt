@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Klem Loden - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Klem Loden</h1>
+        <p>Compositeure & Productrice - Musique à l'image</p>
+        <nav>
+            <ul>
+                <li><a href="#about">À Propos</a></li>
+                <li><a href="#music">Musique</a></li>
+                <li><a href="#references">Références</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="about">
+        <h2>À Propos</h2>
+        <p>Klem Loden est une compositrice et productrice reconnue dans la musique à l’image, avec des placements pour Netflix, Disney, Xbox et bien d’autres.</p>
+        <p>Récemment décorée de la médaille culturelle "Art et Musique" en 2025.</p>
+    </section>
+    
+    <section id="music">
+        <h2>Musique</h2>
+        <p>Écoutez une sélection de compositions :</p>
+        <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/EXAMPLE"></iframe>
+    </section>
+    
+    <section id="references">
+        <h2>Références</h2>
+        <p>Collaborations et placements :</p>
+        <ul>
+            <li>Netflix - Trailer</li>
+            <li>Disney - Bande sonore</li>
+            <li>Xbox - Musique de jeu</li>
+            <li>Chroma Music - Édition musicale</li>
+        </ul>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Pour toute demande de synchronisation ou collaboration, contactez-moi :</p>
+        <p>Email : <a href="mailto:contact@klemloden.com">contact@klemloden.com</a></p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Klem Loden - Tous droits réservés</p>
+    </footer>
+</body>
+</html>
